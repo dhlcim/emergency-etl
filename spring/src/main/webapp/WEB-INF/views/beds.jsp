@@ -22,8 +22,8 @@
 <body>
     <h1>🏥 전체 병상 현황</h1>
     <div class="nav">
-        <a href="/">가용병상 현황</a>
-        <a href="/beds">전체 병상 현황</a>
+        <a href="/emergencyroom/">가용병상 현황</a>
+        <a href="/emergencyroom/beds">전체 병상 현황</a>
     </div>
     <div class="summary">전체 병원: ${beds.size()}개</div>
     <table>
